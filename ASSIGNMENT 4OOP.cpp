@@ -145,15 +145,15 @@ int main()
     int c, n;
     do
     {
-        cout <<"\n1. Function\n";
-        cout <<"2. Class & Object\n";
-        cout <<"3. Inheritance + Constructor Destructor\n";
-        cout <<"4. Polymorphism\n";
-        cout <<"5. Template\n";
-        cout <<"6. Opertor Overloading\n";
-        cout <<"7. File Handling\n";
-        cout <<"8. Exception Handling\n";
-        cout <<"9. Exit\n";
+        cout <<"\n1. For Function\n";
+        cout <<"2. For Class & Object\n";
+        cout <<"3. For Inheritance + Constructor Destructor\n";
+        cout <<"4. For Polymorphism\n";
+        cout <<"5. For Template\n";
+        cout <<"6. For Opertor Overloading\n";
+        cout <<"7. For File Handling\n";
+        cout <<"8. For Exception Handling\n";
+        cout <<"9. For Exit\n";
         cin >> n;
         switch (n)
         {
